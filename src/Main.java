@@ -1,7 +1,7 @@
 // hlavna trieda Main
 public class Main {
-    // comment
-    public static void main(String[] argstr) {
+    // merdžnuté
+    public static int main(String[] args) {
         /* hello */
         System.out.println("this is main branch");
         int x=14;
